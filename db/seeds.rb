@@ -1,4 +1,5 @@
 require 'faker'
+
 # johnnys = Restaurant.find_or_create_by(name: "Johnnys")
 # maggies = Restaurant.find_or_create_by(name: "Maggies")
 # pauls = Restaurant.find_or_create_by(name: "Pauls")
@@ -76,3 +77,6 @@ end
 # vegan = Tag.find_or_create_by(name: "Vegan")
 # chefs_special = Tag.find_or_create_by(name: "Chef's Special")
 # raw_food = Tag.find_or_create_by(name: "Raw Food")
+
+
+
